@@ -1,5 +1,5 @@
 # aicore-genai-samples
-This repository contains sample applications mainly to demonstrate usage of Generative AI Capabilities available in SAP AI Core. These applications can enable the user to have a quick hands-on with the some of the SAP AI Core capabilities.
+This repository contains sample applications mainly to demonstrate usage of Generative AI Capabilities available in SAP AI Core. These applications can enable the user to have a quick hands-on with the some of the SAP AI Core capabilities..
 
 DISCLAIMER: The sample applications are only for enablement and not for Production usage.
 
